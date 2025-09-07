@@ -1,0 +1,17 @@
+name: Super_Stick_Sword
+version: '1.0'
+main: org.little100.super_Stick_Sword.Super_Stick_Sword
+api-version: '1.20'
+folia-supported: true
+
+commands:
+  sss:
+    description: Super Stick Sword commands
+    usage: /<command> language [lang_code]
+    permission: super_stick_sword.command
+    permission-message: You don't have permission to use this command.
+
+permissions:
+  super_stick_sword.command:
+    description: Allows access to all Super Stick Sword commands
+    default: op

@@ -1,0 +1,16 @@
+# English language file
+items:
+  compressed_stick_1: "Compressed Stick"
+  compressed_stick_2: "Double Compressed Stick"
+  compressed_stick_3: "Triple Compressed Stick"
+  compressed_stick_4: "Quadruple Compressed Stick"
+  compressed_stick_5: "Quintuple Compressed Stick"
+  compressed_stick_6: "Sextuple Compressed Stick"
+  compressed_stick_7: "Septuple Compressed Stick"
+  compressed_stick_8: "Octuple Compressed Stick"
+  super_stick_sword: "Super Stick Sword"
+  super_stick_sword_lore: "§7Attack Damage: §mLittle_§r100"
+
+commands:
+  language_changed: "Language has been changed successfully!"
+  usage_language: "/sss language - Switch language. Usage: /sss language [lang_file]"

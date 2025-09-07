@@ -1,0 +1,15 @@
+items:
+  compressed_stick_1: "一炼木"
+  compressed_stick_2: "二炼木"
+  compressed_stick_3: "三炼木"
+  compressed_stick_4: "四炼木"
+  compressed_stick_5: "五炼木"
+  compressed_stick_6: "六炼木"
+  compressed_stick_7: "七炼木"
+  compressed_stick_8: "八炼木"
+  super_stick_sword: "极炼木剑"
+  super_stick_sword_lore: "§7其威：李涛一百"
+
+commands:
+  language_changed: "语言已易！"
+  usage_language: "夫 /sss language 者，易言语也。用之：/sss language [言语之档]"
